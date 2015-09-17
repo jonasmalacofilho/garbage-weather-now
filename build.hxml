@@ -1,0 +1,6 @@
+-js www/weather.js
+-main Weather
+-cp src
+-D analyzer
+-dce full
+
